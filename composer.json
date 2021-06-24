@@ -1,0 +1,10 @@
+{
+  "name": "sajadtorkamani/understanding-psr4-autoloading",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src",
+      "Acme\\": "lib/Acme"
+    }
+  },
+  "require": {}
+}
